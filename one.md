@@ -9,3 +9,5 @@ Here are some changes to rebase with.
 Some changes to pull.
 
 ## this is on newbranch
+
+Change to test push without argument
